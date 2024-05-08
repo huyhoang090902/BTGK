@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88553792693",
+    "project_id": "giuakyloginhomeregister",
+    "storage_bucket": "giuakyloginhomeregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88553792693:android:34e47459329af784ffcafc",
+        "android_client_info": {
+          "package_name": "com.loginhomeregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaLVXP3v0Fwjf_jzxQHEO9hWQXcl33I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
